@@ -1,0 +1,14 @@
+.number-box {
+    font-size: 64px;
+    text-align: center;
+    line-height: normal;
+}
+#pie{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#pie svg{
+    margin: auto;
+}
